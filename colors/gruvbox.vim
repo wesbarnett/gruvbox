@@ -973,8 +973,9 @@ hi! link cssGeneratedContentProp GruvboxAqua
 
 " }}}
 " Fortran: {{{
-hi! link fortranTodo GruvboxPurple
-hi! link fortranNumber GruvboxBlue
+hi! link fortranTodo GruvboxOrange
+hi! link fortranCall GruvboxBlue
+hi! link fortranIntrinsic GruvboxBlue
 " }}}
 " JavaScript: {{{
 
